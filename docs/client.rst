@@ -3,10 +3,11 @@ Mosquitto\\Client
 =================
 
 .. php:namespace:: Mosquitto
+    php 命名空间： Mosquitto
 
 .. php:class:: Client
-
-    This is the main Mosquitto client.
+    php 类
+    This is the main Mosquitto client.
 
     .. php:const:: LOG_DEBUG
 
